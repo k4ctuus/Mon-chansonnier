@@ -1,12 +1,16 @@
 body {
   font-family: 'Montserrat', sans-serif;
-  background: #f9f9f9;
+  background: #FFF4E6;
+  color: #333333;
   padding: 2rem;
   max-width: 100%;
   margin: 0 auto;
 }
 h1, h2, h3, h4, h5, h6, p, a, li, span {
     font-family: 'Montserrat', sans-serif;
+}
+h1, h2, h3 {
+    color: #FF9F00;
 }
 h1 {
   text-align: center;
@@ -19,10 +23,26 @@ ul {
 
 a {
   text-decoration: none;
-  color: #0077cc;
+  color: #F28D35;
   font-size: 1.2rem;
 }
 
 a:hover {
+  color: #FF9F00;
   text-decoration: underline;
+}
+button {
+    background-color: #FF9F00;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+button:hover {
+    background-color: #F28D35;
+}
+p {
+    margin-bottom: 1rem;
 }
