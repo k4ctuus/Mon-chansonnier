@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6, p, a, li, span {
     font-family: 'Montserrat', sans-serif;
 }
 h1, h2, h3 {
-    color: #FF9F00;
+    color: #003366;
 }
 h1 {
   text-align: center;
@@ -23,16 +23,16 @@ ul {
 
 a {
   text-decoration: none;
-  color: #F28D35;
+  color: #003366;
   font-size: 1.2rem;
 }
 
 a:hover {
-  color: #FF9F00;
+  color: #003366;
   text-decoration: underline;
 }
 button {
-    background-color: #FF9F00;
+    background-color: #003366;
     color: white;
     padding: 10px 20px;
     border: none;
@@ -41,7 +41,7 @@ button {
     transition: background-color 0.3s ease;
 }
 button:hover {
-    background-color: #F28D35;
+    background-color: #003366;
 }
 p {
     margin-bottom: 1rem;
