@@ -1,8 +1,0 @@
-body {
-  background-image: url("C:\Users\louis\OneDrive\Images\fond.png");
-  background-size: cover; 
-  background-position: center center; 
-  background-attachment: fixed;
-  height: 100vh; 
-  margin: 0;
-}
