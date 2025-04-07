@@ -2,10 +2,12 @@ body {
   font-family: 'Montserrat', sans-serif;
   background: #f9f9f9;
   padding: 2rem;
-  max-width: 600px;
-  margin: auto;
+  max-width: 100%;
+  margin: 0 auto;
 }
-
+h1, h2, h3, h4, h5, h6, p, a, li, span {
+    font-family: 'Montserrat', sans-serif;
+}
 h1 {
   text-align: center;
 }
